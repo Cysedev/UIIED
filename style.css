@@ -127,10 +127,6 @@ h4 {
     color: red;
 }
 
-#organizations {
-    height: 100vh;
-}
-
 #organizations .organizationWrapper {
     margin-top: 100px;
     display: grid;
@@ -370,4 +366,5 @@ h4 {
 }
 .nav-icon.open span:nth-child(3) {
     transform: translateY(-9px) rotate(-45deg);
+
 }
